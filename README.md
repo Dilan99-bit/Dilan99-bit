@@ -2,6 +2,8 @@
 
 # Hola, soy Dilan 👨‍💻
 
+![Banner](assets/banner_dilan.png)
+
 ### Estudiante de Ingeniería de Software · Frontend & Backend · Colombia 🇨🇴
 
 *Construyendo proyectos reales mientras aprendo. Segundo semestre en camino.*
