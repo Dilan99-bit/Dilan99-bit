@@ -2,7 +2,7 @@
 
 # Hola, soy Dilan 👨‍💻
 
-### Estudiante de Ingeniería de Software · Frontend & Backend · Colombia 🇨🇴
+### Estudiante de tecnica laboral de Software · Frontend & Backend · Colombia 🇨🇴
 
 *Construyendo proyectos reales mientras aprendo. Segundo semestre en camino.*
 
