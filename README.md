@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](assets/banner_dilan.png)
+![Banner](banner_dilan.png)
 
 # Hola, soy Dilan 👨‍💻
 
