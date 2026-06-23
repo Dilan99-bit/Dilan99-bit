@@ -1,8 +1,10 @@
 <div align="center">
 
+![Banner](assets/banner_dilan.png)
+
 # Hola, soy Dilan 👨‍💻
 
-### Estudiante de tecnica laboral de Software · Frontend & Backend · Colombia 🇨🇴
+### Técnica Laboral en Software · Frontend & Backend · Colombia 🇨🇴
 
 *Construyendo proyectos reales mientras aprendo. Segundo semestre en camino.*
 
@@ -12,9 +14,9 @@
 
 ## Sobre mí
 
-Soy estudiante de segundo semestre de Ingeniería de Software, apasionado por el desarrollo **Frontend y Backend**. Me gusta convertir ideas en soluciones funcionales usando código limpio y bien estructurado.
+Soy estudiante de Técnica Laboral en Software, apasionado por el desarrollo **Frontend y Backend**. Me gusta convertir ideas en soluciones funcionales usando código limpio y bien estructurado.
 
-- 🎓 Estudiante de Ingeniería de Software — segundo semestre
+- 🎓 Técnica Laboral en Software — segundo semestre
 - 🌱 Actualmente aprendiendo: **Spring Boot, SQL y desarrollo web**
 - 🎯 Meta: Construir aplicaciones web completas y profesionales
 - 🤝 Abierto a colaborar en proyectos académicos y personales
@@ -77,6 +79,15 @@ Soy estudiante de segundo semestre de Ingeniería de Software, apasionado por el
 
 ---
 
+### 🎮 JuegoAdivinaNumero_Es-
+> Videojuego de adivinar el número desarrollado en JavaScript puro con manipulación del DOM. El jugador debe encontrar el número secreto con pistas de mayor o menor.
+
+`JavaScript` `HTML` `CSS`
+
+[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github)](https://github.com/Dilan99-bit/JuegoAdivinaNumero_Es-)
+
+---
+
 ### 🍰 DulcesDelicias
 > Proyecto colaborativo — Frontend de una tienda de dulces y postres.
 
@@ -110,5 +121,4 @@ Soy estudiante de segundo semestre de Ingeniería de Software, apasionado por el
 *"El mejor código es el que se puede leer, entender y mejorar."*
 
 </div>
-
 
