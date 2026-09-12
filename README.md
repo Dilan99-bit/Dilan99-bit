@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 ![Banner](banner_dilan.png)
@@ -16,11 +18,11 @@
 
 Soy estudiante de Técnica Laboral en Software, apasionado por el desarrollo **Frontend y Backend**. Me gusta convertir ideas en soluciones funcionales usando código limpio y bien estructurado.
 
-- 🎓 Técnica Laboral en Software — segundo semestre
-- 🌱 Actualmente aprendiendo: **Spring Boot, SQL y desarrollo web**
+- 🎓 Técnica Laboral en Software — segundo semestre en CESDE
+- 🌱 Actualmente aprendiendo: **React, Python, Pandas, Spring Boot, SQL y desarrollo web**
 - 🎯 Meta: Construir aplicaciones web completas y profesionales
 - 🤝 Abierto a colaborar en proyectos académicos y personales
-- 📍 Colombia
+- 📍 Medellín, Colombia
 
 ---
 
@@ -31,11 +33,14 @@ Soy estudiante de Técnica Laboral en Software, apasionado por el desarrollo **F
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend & Bases de datos**
+**Backend, Datos & Bases de datos**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Herramientas**
@@ -43,6 +48,7 @@ Soy estudiante de Técnica Laboral en Software, apasionado por el desarrollo **F
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
@@ -121,4 +127,3 @@ Soy estudiante de Técnica Laboral en Software, apasionado por el desarrollo **F
 *"El mejor código es el que se puede leer, entender y mejorar."*
 
 </div>
-
