@@ -67,6 +67,17 @@ Soy estudiante de Técnica Laboral en Software, apasionado por el desarrollo Fro
 
 ---
 
+## 🔨 Proyectos en los que estoy trabajando actualmente
+
+### 🏢 Cesde Empresas *(Académico)*
+Proyecto académico integral en desarrollo, orientado a la gestión empresarial. Aplica de forma conjunta todas las tecnologías que he aprendido hasta el momento: backend con Java y Spring Boot, base de datos relacional con MySQL (modelada y administrada desde MySQL Workbench), frontend con HTML, CSS, JavaScript y React, y un módulo de análisis de datos en Python utilizando Pandas para el procesamiento de la información y Faker para la generación de datos simulados de prueba.
+
+`Java` `Spring Boot` `MySQL` `MySQL Workbench` `HTML` `CSS` `JavaScript` `React` `Python` `Pandas` `Faker`
+
+🚧 *Proyecto en construcción — próximamente disponible en mi repositorio.*
+
+---
+
 ## 🚀 Proyectos destacados
 
 ### 🏥 clinica.demo
